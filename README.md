@@ -17,6 +17,9 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
   <a href="https://instagram.com/gotardokaique">
     <img src="https://img.shields.io/badge/Instagram-@gotardokaique-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:kaiquecgotardo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kaiquecgotardo%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
