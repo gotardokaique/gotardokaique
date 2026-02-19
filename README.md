@@ -3,8 +3,8 @@
 🚀 **Software developer | Java - Spring Boot - JavaScript - React & TypeScript**
 🇧🇷 Brasil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Construo produtos escaláveis, plataformas SaaS e sistemas web de alta performance.
+Foco em arquitetura sólida, performance, código limpo e soluções orientadas ao negócio.
 
 ---
 
